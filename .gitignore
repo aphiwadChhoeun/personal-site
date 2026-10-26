@@ -1,0 +1,18 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+
+# Dependencies / build output
+node_modules/
+dist/
+build/
+.cache/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Local env files
+.env
+.env.local
